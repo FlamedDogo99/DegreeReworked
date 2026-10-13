@@ -21,16 +21,12 @@ DegreeReworked brings back that nostalgic look of Degreeworks, removing unnecess
 
 Need to disable the stylesheet quickly? No problem! Just press the extension icon <img src="./src/icons/icon-on-128.png" width="14px"></img>
 
-removed until implemented
-
-```
 Now lets see some comparisons:
 
-|                        Bland, modern MyMSU                        |                   Stylized, performant DegreeReworked                   |
+|                        Bland, modern Degreeworks                  |                   Stylized, performant DegreeReworked           |
 |:-----------------------------------------------------------------:|:---------------------------------------------------------------:|
 |      ![Main Current](.github/readme-images/main-current.png)      |      ![Main Better](.github/readme-images/main-better.png)      |
 | ![All Cards Current](.github/readme-images/all-cards-current.png) | ![All Cards Better](.github/readme-images/all-cards-better.png) |
-```
 
 ## Manual Installation
 
